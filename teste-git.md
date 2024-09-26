@@ -3,4 +3,9 @@ TESTE GIT
 este é o primeiro ficheiro deste repositorio
 
 
-esta é a segunda alteracao deste ficheiro 
+a segunda alteração foi modificada
+
+
+
+esta é a terceira 
+
